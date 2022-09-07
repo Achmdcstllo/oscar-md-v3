@@ -5,14 +5,14 @@ VERSION:3.0
 N:;;;
 FN: ᴹᴿ᭄ OscarOffcོ_1ঔৣ꧂
 item.ORG: ᴹᴿ᭄ OscarOffcོ_1ঔৣ꧂
-item1.TEL;waid=6285850539404:6285850539404@s.whatsapp.net
+item1.TEL;waid=6285773400911:6285773400911@s.whatsapp.net
 item1.X-ABLabel:owner selalu ada 
-item2.YOUTUBE;type=INTERNET: https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ
+item2.YOUTUBE;type=INTERNET: —
 item2.X-ABLabel:YOUTUBE
-item3.ADR:;;🎍AMERIKA SERIKAT;;;;
+item3.ADR:;; Indonesia;;;;
 item3.X-ABADR:ac
 item3.X-ABLabel:asal kota
-item4.URL:https//github.com/Alpiii22 
+item4.URL:https//github.com/Achmdcstllo 
 item4.X-ABLabel:Website
 END:VCARD`
 const sentMsg  = await conn.sendMessage(
